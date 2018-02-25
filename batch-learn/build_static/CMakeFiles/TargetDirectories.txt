@@ -1,0 +1,3 @@
+/home/nima_mohammadi/Pushe/batch-learn/build_static/CMakeFiles/edit_cache.dir
+/home/nima_mohammadi/Pushe/batch-learn/build_static/CMakeFiles/rebuild_cache.dir
+/home/nima_mohammadi/Pushe/batch-learn/build_static/CMakeFiles/batch-learn.dir
